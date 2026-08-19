@@ -21,6 +21,6 @@ I am a machine learning researcher with a PhD in Biomedical Engineering from Joh
 
 **TPAMI • TMLR • CoLLAs • PLOS One**
 
+📄 [**Curriculum Vitae**](./Jayanta_Dey_Resume.pdf)  
 🎓 [Google Scholar](https://scholar.google.com/citations?user=o0AWbc4AAAAJ&hl=en)  
-💼 [LinkedIn](https://www.linkedin.com/in/jayanta-dey/)  
-💻 [GitHub](https://github.com/jdey4)
+💼 [LinkedIn](https://www.linkedin.com/in/jayanta-dey/)
